@@ -95,58 +95,67 @@ It can be used for:
 ## 📸 Simulation Results
 
 <p align="center">
-  <img src="Media\Pictures\9.png" alt="Simulation View" width="70%"/>
+  <img src="./Media/Pictures/9.png" alt="Simulation View" width="70%"/>
 </p>
 
 <div align="center">
-  <video src="https://github.com/Mohammad-Mahdi-Khademi/6DOF-Robot-Arm-Simulation-IRB-4600-40-/main/Media/Videos/Simulation%20Environment.mp4" controls width="80%" preload="metadata"></video>
-  <p>Simulation Environment</p>
+  <a href="https://github.com/Mohammad-Mahdi-Khademi/6DOF-Robot-Arm-Simulation-IRB-4600-40-/blob/main/Media/Videos/Simulation%20Environment.mp4" target="_blank">
+    <img src="./Media/Pictures/9.png" alt="Simulation Environment" width="70%" style="cursor: pointer;"/>
+    <p>Simulation Environment</p>
+  </a>
 </div>
 
 <p align="center">
-  <img src="Media\Pictures\8.png" alt="Robot View" width="70%"/>
+  <img src="./Media/Pictures/8.png" alt="Robot View" width="70%"/>
 </p>
 
 <p align="center">
-  <img src="Media\Pictures\10.png" alt="Main Menu" width="70%"/>
+  <img src="./Media/Pictures/10.png" alt="Main Menu" width="70%"/>
 </p>
 
 <p align="center">
-  <img src="Media\Pictures\11.png" alt="Move joints" width="70%"/>
+  <img src="./Media/Pictures/11.png" alt="Move joints" width="70%"/>
 </p>
 
 <div align="center">
-  <video src="https://github.com/Mohammad-Mahdi-Khademi/6DOF-Robot-Arm-Simulation-IRB-4600-40-/main/Media/Videos/Moving%20Joints.mp4" controls width="80%" preload="metadata"></video>
-  <p>Moving Joints</p>
-</div>
-<p align="center">
-  <img src="Media\Pictures\12.png" alt="Move End-Effector" width="70%"/>
-</p>
-
-<div align="center">
-  <video src="https://github.com/Mohammad-Mahdi-Khademi/6DOF-Robot-Arm-Simulation-IRB-4600-40-/main/Media/Videos/Tracking.mp4" controls width="80%" preload="metadata"></video>
-  <p>Tracking</p>
+  <a href="https://github.com/Mohammad-Mahdi-Khademi/6DOF-Robot-Arm-Simulation-IRB-4600-40-/blob/main/Media/Videos/Moving%20Joints.mp4" target="_blank">
+    <img src="./Media/Pictures/11.png" alt="Moving Joints" width="70%" style="cursor: pointer;"/>
+    <p>Moving Joints</p>
+  </a>
 </div>
 
 <p align="center">
-  <img src="Media\Pictures\13.png" alt="Draw Circle" width="70%"/>
-</p>
-
-<p align="center">
-  <img src="Media\Pictures\14.png" alt="Draw Square" width="70%"/>
-</p>
-
-<p align="center">
-  <img src="Media\Pictures\15.png" alt="Draw Rectangle" width="70%"/>
-</p>
-
-<p align="center">
-  <img src="Media\Pictures\16.png" alt="Imitate" width="70%"/>
+  <img src="./Media/Pictures/12.png" alt="Move End-Effector" width="70%"/>
 </p>
 
 <div align="center">
-  <video src="https://github.com/Mohammad-Mahdi-Khademi/6DOF-Robot-Arm-Simulation-IRB-4600-40-/main/Media/Videos/Imitation.mp4" controls width="80%" preload="metadata"></video>
-  <p>Imitation</p>
+  <a href="https://github.com/Mohammad-Mahdi-Khademi/6DOF-Robot-Arm-Simulation-IRB-4600-40-/blob/main/Media/Videos/Tracking.mp4" target="_blank">
+    <img src="./Media/Pictures/12.png" alt="Tracking" width="70%" style="cursor: pointer;"/>
+    <p>Tracking</p>
+  </a>
+</div>
+
+<p align="center">
+  <img src="./Media/Pictures/13.png" alt="Draw Circle" width="70%"/>
+</p>
+
+<p align="center">
+  <img src="./Media/Pictures/14.png" alt="Draw Square" width="70%"/>
+</p>
+
+<p align="center">
+  <img src="./Media/Pictures/15.png" alt="Draw Rectangle" width="70%"/>
+</p>
+
+<p align="center">
+  <img src="./Media/Pictures/16.png" alt="Imitate" width="70%"/>
+</p>
+
+<div align="center">
+  <a href="https://github.com/Mohammad-Mahdi-Khademi/6DOF-Robot-Arm-Simulation-IRB-4600-40-/blob/main/Media/Videos/Imitation.mp4" target="_blank">
+    <img src="./Media/Pictures/16.png" alt="Imitation" width="70%" style="cursor: pointer;"/>
+    <p>Imitation</p>
+  </a>
 </div>
 ---
 ## Authors
