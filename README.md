@@ -64,7 +64,7 @@ It can be used for:
 | Typical controller     | IRC5 (simulated behavior) |
 
 <p align="center">
-  <img src="Media\Pictures\6.png" alt="Working Range" width="70%"/>
+  <img src="Media\Pictures\6.png" alt="Working Range" width="40%"/>
 </p>
 
 
