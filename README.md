@@ -63,8 +63,9 @@ It can be used for:
 | Mounting options       | Floor, inverted, tilted   |
 | Typical controller     | IRC5 (simulated behavior) |
 
-### Working Range
-![Working Range](Media\Pictures\6.png)
+<p align="center">
+  <img src="Media\Pictures\6.png" alt="Working Range" width="70%"/>
+</p>
 
 
 > Source: official ABB documentation
@@ -97,59 +98,56 @@ It can be used for:
   <img src="Media\Pictures\9.png" alt="Simulation View" width="70%"/>
 </p>
 
-<video width="100%" controls>
-  <source src="https://raw.githubusercontent.com/Mohammad-Mahdi-Khademi/6DOF-Robot-Arm-Simulation-IRB-4600-40-/main/Media/Videos/Simulation%20Environment.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<div align="center">
+  <video src="https://github.com/Mohammad-Mahdi-Khademi/6DOF-Robot-Arm-Simulation-IRB-4600-40-/main/Media/Videos/Simulation%20Environment.mp4" controls width="80%" preload="metadata"></video>
+  <p>Simulation Environment</p>
+</div>
 
 <p align="center">
-  <img src="Media\Pictures\9.png" alt="Robot View" width="70%"/>
+  <img src="Media\Pictures\8.png" alt="Robot View" width="70%"/>
 </p>
 
 <p align="center">
-  <img src="Media\Pictures\9.png" alt="Main Menu" width="70%"/>
+  <img src="Media\Pictures\10.png" alt="Main Menu" width="70%"/>
 </p>
 
 <p align="center">
-  <img src="Media\Pictures\9.png" alt="Move joints" width="70%"/>
+  <img src="Media\Pictures\11.png" alt="Move joints" width="70%"/>
 </p>
 
-<video width="100%" controls>
-  <source src="https://raw.githubusercontent.com/Mohammad-Mahdi-Khademi/6DOF-Robot-Arm-Simulation-IRB-4600-40-/main/Media/Videos/Moving%20Joints.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+<div align="center">
+  <video src="https://github.com/Mohammad-Mahdi-Khademi/6DOF-Robot-Arm-Simulation-IRB-4600-40-/main/Media/Videos/Moving%20Joints.mp4" controls width="80%" preload="metadata"></video>
+  <p>Moving Joints</p>
+</div>
 <p align="center">
-  <img src="Media\Pictures\9.png" alt="Move End-Effector" width="70%"/>
+  <img src="Media\Pictures\12.png" alt="Move End-Effector" width="70%"/>
 </p>
 
-<video width="100%" controls>
-  <source src="https://raw.githubusercontent.com/Mohammad-Mahdi-Khademi/6DOF-Robot-Arm-Simulation-IRB-4600-40-/main/Media/Videos/Tracking.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<div align="center">
+  <video src="https://github.com/Mohammad-Mahdi-Khademi/6DOF-Robot-Arm-Simulation-IRB-4600-40-/main/Media/Videos/Tracking.mp4" controls width="80%" preload="metadata"></video>
+  <p>Tracking</p>
+</div>
 
 <p align="center">
-  <img src="Media\Pictures\9.png" alt="Draw Circle" width="70%"/>
-</p>
-
-<p align="center">
-  <img src="Media\Pictures\9.png" alt="Draw Square" width="70%"/>
+  <img src="Media\Pictures\13.png" alt="Draw Circle" width="70%"/>
 </p>
 
 <p align="center">
-  <img src="Media\Pictures\9.png" alt="Draw Rectangle" width="70%"/>
+  <img src="Media\Pictures\14.png" alt="Draw Square" width="70%"/>
 </p>
-
 
 <p align="center">
-  <img src="Media\Pictures\9.png" alt="Imitate" width="70%"/>
+  <img src="Media\Pictures\15.png" alt="Draw Rectangle" width="70%"/>
 </p>
 
-<video width="100%" controls>
-  <source src="https://raw.githubusercontent.com/Mohammad-Mahdi-Khademi/6DOF-Robot-Arm-Simulation-IRB-4600-40-/main/Media/Videos/Imitation.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<p align="center">
+  <img src="Media\Pictures\16.png" alt="Imitate" width="70%"/>
+</p>
 
+<div align="center">
+  <video src="https://github.com/Mohammad-Mahdi-Khademi/6DOF-Robot-Arm-Simulation-IRB-4600-40-/main/Media/Videos/Imitation.mp4" controls width="80%" preload="metadata"></video>
+  <p>Imitation</p>
+</div>
 ---
 ## Authors
 
