@@ -102,13 +102,13 @@ It can be used for:
 </video>
 
 ### Robot View
-![Robot View](Media\Pictures\8.png)
+![Robot View](Media/Pictures/8.png)
 
 ### Main Menu
-![Main Menu](Media\Pictures\10.png)
+![Main Menu](Media/Pictures/10.png)
 
 ### Move joints
-![Move Joints](Media\Pictures\11.png)
+![Move Joints](Media/Pictures/11.png)
 
 <video width="100%" controls>
   <source src="https://raw.githubusercontent.com/Mohammad-Mahdi-Khademi/6DOF-Robot-Arm-Simulation-IRB-4600-40-/main/Media/Videos/Moving%20Joints.mp4" type="video/mp4">
@@ -116,7 +116,7 @@ It can be used for:
 </video>
 
 ### Move End-Effector
-![Move End-Effector](Media\Pictures\12.png)
+![Move End-Effector](Media/Pictures/12.png)
 
 <video width="100%" controls>
   <source src="https://raw.githubusercontent.com/Mohammad-Mahdi-Khademi/6DOF-Robot-Arm-Simulation-IRB-4600-40-/main/Media/Videos/Tracking.mp4" type="video/mp4">
@@ -124,16 +124,16 @@ It can be used for:
 </video>
 
 ### Draw Circle
-![Draw Circle](Media\Pictures\13.png)
+![Draw Circle](Media/Pictures/13.png)
 
 ### Draw Square
-![Draw Square](Media\Pictures\14.png)
+![Draw Square](Media/Pictures/14.png)
 
 ### Draw Rectangle
-![Draw Rectangle](Media\Pictures\15.png)
+![Draw Rectangle](Media/Pictures/15.png)
 
 ### Imitate
-![Imitate](Media\Pictures\16.png)
+![Imitate](Media/Pictures/16.png)
 
 <video width="100%" controls>
   <source src="https://raw.githubusercontent.com/Mohammad-Mahdi-Khademi/6DOF-Robot-Arm-Simulation-IRB-4600-40-/main/Media/Videos/Imitation.mp4" type="video/mp4">
