@@ -93,47 +93,57 @@ It can be used for:
 
 ## 📸 Simulation Results
 
-### Simulation View
-![Simulation View](Media\Pictures\9.png)
+<p align="center">
+  <img src="Media\Pictures\9.png" alt="Simulation View" width="70%"/>
+</p>
 
 <video width="100%" controls>
   <source src="https://raw.githubusercontent.com/Mohammad-Mahdi-Khademi/6DOF-Robot-Arm-Simulation-IRB-4600-40-/main/Media/Videos/Simulation%20Environment.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-### Robot View
-![Robot View](Media/Pictures/8.png)
+<p align="center">
+  <img src="Media\Pictures\9.png" alt="Robot View" width="70%"/>
+</p>
 
-### Main Menu
-![Main Menu](Media/Pictures/10.png)
+<p align="center">
+  <img src="Media\Pictures\9.png" alt="Main Menu" width="70%"/>
+</p>
 
-### Move joints
-![Move Joints](Media/Pictures/11.png)
+<p align="center">
+  <img src="Media\Pictures\9.png" alt="Move joints" width="70%"/>
+</p>
 
 <video width="100%" controls>
   <source src="https://raw.githubusercontent.com/Mohammad-Mahdi-Khademi/6DOF-Robot-Arm-Simulation-IRB-4600-40-/main/Media/Videos/Moving%20Joints.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-### Move End-Effector
-![Move End-Effector](Media/Pictures/12.png)
+<p align="center">
+  <img src="Media\Pictures\9.png" alt="Move End-Effector" width="70%"/>
+</p>
 
 <video width="100%" controls>
   <source src="https://raw.githubusercontent.com/Mohammad-Mahdi-Khademi/6DOF-Robot-Arm-Simulation-IRB-4600-40-/main/Media/Videos/Tracking.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-### Draw Circle
-![Draw Circle](Media/Pictures/13.png)
+<p align="center">
+  <img src="Media\Pictures\9.png" alt="Draw Circle" width="70%"/>
+</p>
 
-### Draw Square
-![Draw Square](Media/Pictures/14.png)
+<p align="center">
+  <img src="Media\Pictures\9.png" alt="Draw Square" width="70%"/>
+</p>
 
-### Draw Rectangle
-![Draw Rectangle](Media/Pictures/15.png)
+<p align="center">
+  <img src="Media\Pictures\9.png" alt="Draw Rectangle" width="70%"/>
+</p>
 
-### Imitate
-![Imitate](Media/Pictures/16.png)
+
+<p align="center">
+  <img src="Media\Pictures\9.png" alt="Imitate" width="70%"/>
+</p>
 
 <video width="100%" controls>
   <source src="https://raw.githubusercontent.com/Mohammad-Mahdi-Khademi/6DOF-Robot-Arm-Simulation-IRB-4600-40-/main/Media/Videos/Imitation.mp4" type="video/mp4">
